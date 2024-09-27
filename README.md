@@ -1,4 +1,3 @@
-# Client-Side-Address-Book
 # Contact Management App
 
 This is a single-page application built with **Vue.js**, **HTML**, **CSS**, **TypeScript**, and **Bootstrap**. The app allows users to manage their contacts efficiently, providing functionalities to add, edit, and delete contacts.
@@ -25,7 +24,7 @@ To download and run the application locally, follow these steps:
 
 
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/BlineraHysenaj/Client-Side-Address-Book.git
 
    npm install
 
