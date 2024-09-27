@@ -8,7 +8,7 @@ This is a single-page application built with **Vue.js**, **HTML**, **CSS**, **Ty
 - User-friendly interface for managing contacts
 - Validation for inputs
 - Saves contacts in local storage
-- 
+
 ## Screenshots
 
 ### Screenshot 1
