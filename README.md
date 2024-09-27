@@ -9,6 +9,9 @@ This is a single-page application built with **Vue.js**, **HTML**, **CSS**, **Ty
 - Validation for inputs
 - Saves contacts in local storage
 
+## Video
+https://www.awesomescreenshot.com/video/31998992?key=ca6cf76f0096fecc60d3742a5757cb51
+
 ## Screenshots
 
 ### Screenshot 1
