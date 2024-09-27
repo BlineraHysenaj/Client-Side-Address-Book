@@ -3,10 +3,12 @@
 This is a single-page application built with **Vue.js**, **HTML**, **CSS**, **TypeScript**, and **Bootstrap**. The app allows users to manage their contacts efficiently, providing functionalities to add, edit, and delete contacts.
 
 ## Features
+- Add, edit, and delete contacts
 - Responsive design for all device sizes
 - User-friendly interface for managing contacts
-- Validation for email input
-- Save contacts in local storage
+- Validation for inputs
+- Saves contacts in local storage
+- 
 ## Screenshots
 
 ### Screenshot 1
@@ -29,11 +31,3 @@ To download and run the application locally, follow these steps:
    npm install
 
    npm run dev
-
-
-
-
-
-
-
-
