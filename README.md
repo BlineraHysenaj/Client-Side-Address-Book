@@ -27,10 +27,8 @@ To download and run the application locally, follow these steps:
    ```bash
    git clone <your-repo-url>
 
-   ```bash
    npm install
 
-   ```bash
    npm run dev
 
 
